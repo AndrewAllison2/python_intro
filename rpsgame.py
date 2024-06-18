@@ -3,7 +3,6 @@ from random import randint
 moves = ["Rock", "Paper", "Scissors"]
 
 computer = moves[randint(0, 2)]
-print(computer)
 
 player = False
 
