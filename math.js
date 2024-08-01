@@ -4,4 +4,4 @@ let y = 4;
 function update(arg) {
   return Math.random() + y * arg;
 }
-y = 2; ?; const result = update(x); 
+y = 2;; const result = update(x); 
